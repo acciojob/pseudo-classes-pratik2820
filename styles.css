@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+
+body{
+	background-color:skyblue;
+}
+.first-para{
+	background-color:black;
+	color:white;
+	
+	
+}
+.last-para{
+	color:red;
+}
+
+.white{
+	width:60%;
+	background-color:white;
+}
+.grey{
+	width:60%;
+	background-color:grey;
+}
+.pink{
+	width:60%;
+	background-color:pink;
+}
